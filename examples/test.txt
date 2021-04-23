@@ -1,0 +1,9 @@
+    1. remove hard coded tokens in the repository
+2. update instructions in readme re tokens
+3. get CI tests working in Gitlab, add Docker image
+    4. programatic access for tokens (eg., rp = ResearchPlan(token=xxxxx)
+    5. error handling of all failure cases
+    6. marking private functions in the classes (e.g. through prepending an underscore)
+7. update API documentation
+8. clean up repo (unused files, code style)
+9. Test suite (edited)

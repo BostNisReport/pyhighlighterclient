@@ -1,0 +1,11 @@
+.vscode
+*.pyc
+__pycache__
+.DS_Store
+build
+dist
+*.egg-info/
+pyhighlighterclient/schema/sgqlc-codegen.py
+pyhighlighterclient/schema/silverpond_schema.json
+pyhighlighterclient/schema/update_schema.bat
+pyhighlighterclient/schema/update_schema.sh
